@@ -1,2 +1,10 @@
-
+streamlit
+pandas
+matplotlib
+numpy
+torch
+langchain
+langchain-community
+langchain-core
+langgraph
 
